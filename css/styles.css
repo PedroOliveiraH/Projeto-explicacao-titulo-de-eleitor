@@ -9,6 +9,7 @@ body{
     margin-bottom: 24px;
     font-size: 18px;
     max-width: 950px;
+    background-image: linear-gradient(to bottom right, white, green);
 }
 
 ul img{
