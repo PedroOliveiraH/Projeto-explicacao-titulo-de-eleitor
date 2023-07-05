@@ -5,7 +5,8 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
+    line-height: 1.7;
+    margin-bottom: 24px;
 }
 
 ul img{
@@ -16,7 +17,7 @@ ul img{
     margin: 0;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     text-align: justify;
 }
 
@@ -39,6 +40,7 @@ ul img{
 }
 
 .footer{
-    font-size: 12px;
+    font-size: 20px;
     text-align: center;
+    margin-top: 20px;
 }
